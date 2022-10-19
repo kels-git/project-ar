@@ -1,6 +1,6 @@
 # Viro Starter Kit
 
-This is a blank React Native project setup with Viro.
+This is a React Native project setup with Viro.
 
 ## Prerequesites 
 
